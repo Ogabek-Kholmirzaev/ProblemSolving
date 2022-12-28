@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGame55", "JumpGame55\JumpGame55.csproj", "{FB1945EE-5ADA-4F79-9B36-34DA09696A67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpGame55", "JumpGame55\JumpGame55.csproj", "{FB1945EE-5ADA-4F79-9B36-34DA09696A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveStonesToMinimizeTheTotal1962", "RemoveStonesToMinimizeTheTotal1962\RemoveStonesToMinimizeTheTotal1962.csproj", "{D7DD2AC7-22FB-4E0F-865B-FBC8A2750B96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FB1945EE-5ADA-4F79-9B36-34DA09696A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB1945EE-5ADA-4F79-9B36-34DA09696A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB1945EE-5ADA-4F79-9B36-34DA09696A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DD2AC7-22FB-4E0F-865B-FBC8A2750B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DD2AC7-22FB-4E0F-865B-FBC8A2750B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DD2AC7-22FB-4E0F-865B-FBC8A2750B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DD2AC7-22FB-4E0F-865B-FBC8A2750B96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
