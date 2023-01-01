@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JumpGame55", "JumpGame55\Ju
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveStonesToMinimizeTheTotal1962", "RemoveStonesToMinimizeTheTotal1962\RemoveStonesToMinimizeTheTotal1962.csproj", "{D7DD2AC7-22FB-4E0F-865B-FBC8A2750B96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPattern290", "WordPattern290\WordPattern290.csproj", "{505E08D6-CD1F-40BE-BFC0-650AF02D0B70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D7DD2AC7-22FB-4E0F-865B-FBC8A2750B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7DD2AC7-22FB-4E0F-865B-FBC8A2750B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7DD2AC7-22FB-4E0F-865B-FBC8A2750B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505E08D6-CD1F-40BE-BFC0-650AF02D0B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505E08D6-CD1F-40BE-BFC0-650AF02D0B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505E08D6-CD1F-40BE-BFC0-650AF02D0B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505E08D6-CD1F-40BE-BFC0-650AF02D0B70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
