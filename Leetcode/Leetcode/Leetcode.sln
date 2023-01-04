@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsomophoricStrings205", "Is
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DetectCapital520", "DetectCapital520\DetectCapital520.csproj", "{F08118A2-0B96-4514-813A-830C5812445C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteColumnsToMakeSorted944", "DeleteColumnsToMakeSorted944\DeleteColumnsToMakeSorted944.csproj", "{68ADE33F-745B-420F-919C-FA6A7D97960E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteColumnsToMakeSorted944", "DeleteColumnsToMakeSorted944\DeleteColumnsToMakeSorted944.csproj", "{68ADE33F-745B-420F-919C-FA6A7D97960E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumRoundsToCompleteAllTasks2244", "MinimumRoundsToCompleteAllTasks2244\MinimumRoundsToCompleteAllTasks2244.csproj", "{8E151FEF-07DF-41BB-9C51-B97BB384A2E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{68ADE33F-745B-420F-919C-FA6A7D97960E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68ADE33F-745B-420F-919C-FA6A7D97960E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68ADE33F-745B-420F-919C-FA6A7D97960E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E151FEF-07DF-41BB-9C51-B97BB384A2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E151FEF-07DF-41BB-9C51-B97BB384A2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E151FEF-07DF-41BB-9C51-B97BB384A2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E151FEF-07DF-41BB-9C51-B97BB384A2E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
