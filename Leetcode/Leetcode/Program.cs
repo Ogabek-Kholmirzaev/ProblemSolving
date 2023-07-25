@@ -1,25 +1,6 @@
 ﻿using Leetcode.Solutions;
 
-var solution = new NumberofProvinces547();
-
-Console.WriteLine(solution.FindCircleNum(new int[][]
-{
-    new []{1, 1, 0},
-    new []{1, 1, 0},
-    new []{0, 0, 1}
-}));
-
-Console.WriteLine(solution.FindCircleNum(new int[][]
-{
-    new []{1, 0, 0},
-    new []{0, 1, 0},
-    new []{0, 0, 1}
-}));
-
-Console.WriteLine(solution.FindCircleNum(new int[][]
-{
-    new []{ 1, 0, 0, 1 },
-    new []{ 0, 1, 1, 0 },
-    new []{ 0, 1, 1, 1 },
-    new []{ 1, 0, 1, 1 }
-}));
+Console.WriteLine(PeakIndexInAMountainArray852.PeakIndexInMountainArray(new[] { 0, 1, 0 }));
+Console.WriteLine(PeakIndexInAMountainArray852.PeakIndexInMountainArray(new[] { 0, 2, 1, 0 }));
+Console.WriteLine(PeakIndexInAMountainArray852.PeakIndexInMountainArray(new[] { 0, 10, 5, 2 }));
+Console.WriteLine(PeakIndexInAMountainArray852.PeakIndexInMountainArray(new[] { 3, 5, 3, 2, 0 }));
