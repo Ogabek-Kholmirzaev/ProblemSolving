@@ -1,6 +1,4 @@
 ﻿using Leetcode.Solutions;
 
-Console.WriteLine(ValidParentheses20.IsValid("()"));
-Console.WriteLine(ValidParentheses20.IsValid("()[]{}"));
-Console.WriteLine(ValidParentheses20.IsValid("()"));
-Console.WriteLine(ValidParentheses20.IsValid("(]"));
+Console.WriteLine(LongestPalindrome409.LongestPalindrome("abccccdd"));
+Console.WriteLine(LongestPalindrome409.LongestPalindrome("a"));
