@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace Leetcode.Solutions;
+﻿namespace Leetcode.Solutions;
 
 public class DistributeCandies575
 {
