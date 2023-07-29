@@ -1,6 +1,4 @@
 ﻿using Leetcode.Solutions;
 
-Console.WriteLine(LargestPalindromicNumber2384.LargestPalindromic("444947137"));
-Console.WriteLine(LargestPalindromicNumber2384.LargestPalindromic("00009"));
-Console.WriteLine(LargestPalindromicNumber2384.LargestPalindromic("5736732"));
-Console.WriteLine(LargestPalindromicNumber2384.LargestPalindromic("00011"));
+Console.WriteLine(BestTimeToBuyAndSellTock121.MaxProfit(new int[] { 7, 1, 5, 3, 6, 4 }));
+Console.WriteLine(BestTimeToBuyAndSellTock121.MaxProfit(new int[] { 7, 6, 4, 3, 1 }));
