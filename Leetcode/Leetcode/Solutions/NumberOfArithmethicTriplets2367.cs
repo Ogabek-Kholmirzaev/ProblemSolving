@@ -1,4 +1,4 @@
-﻿namespace Leetcode;
+﻿namespace Leetcode.Solutions;
 
 public class NumberOfArithmethicTriplets2367
 {
